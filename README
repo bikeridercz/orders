@@ -39,9 +39,9 @@ Delete Order
 
 Pages
 =====
-/
+http://localhost:6080/
 	root welcome page
-/api/orders
+http://localhost:6080/api/orders
 	overview of all API methods side by side with testing c/URL's with the same output as from cURL call
-/page/orders
+http://localhost:6080/page/orders
 	HTML page with list of all orders
